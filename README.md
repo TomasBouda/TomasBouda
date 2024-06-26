@@ -36,11 +36,13 @@ I'm a passionate Software Engineer specializing in .NET development. I enjoy pro
 ![Microsoft To Do](https://img.shields.io/badge/-Microsoft%20To%20Do-000?style=flat&logo=microsoft-to-do)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000?style=flat&logo=openai)
 
+<!--
 ## GitHub Stats
 ![Tomáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbouda&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbouda&layout=compact&theme=radical)
+-->
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/tomlabscz/)
