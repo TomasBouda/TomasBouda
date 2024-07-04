@@ -54,3 +54,4 @@ I'm a passionate Software Engineer specializing in .NET development. I enjoy pro
 ## Support
 If you like my work and want to support me, feel free to:
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-000?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/tomasbouda)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/tomasbouda)
